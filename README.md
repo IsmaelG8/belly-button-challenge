@@ -30,14 +30,14 @@ Performed extensive testing to ensure that all interactive elements function cor
 Outcomes:
 
 The interactive dashboard successfully allows users to:
-
 Visualize the top 10 microbial species found in selected individuals.
 Explore detailed microbial compositions through dynamic bubble charts.
 Access demographic and other metadata related to each sample.
 Visualization Samples:
 
-Bar Chart: Displays the concentration of microbes in descending order.
+Bar Chart: 
+Displays the concentration of microbes in descending order.
 Bubble Chart: Offers a broad overview of microbial diversity and concentration across samples.
-Conclusion:
 
+Conclusion:
 This project underscores the power of interactive data visualizations in making scientific data accessible and understandable to a broad audience. By integrating various web technologies and data visualization tools, I have created a platform that not only serves educational purposes but also enhances ongoing research in human microbiomes.
